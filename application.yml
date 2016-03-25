@@ -1,37 +1,37 @@
-hello: world
-foo: bar
-config:
+--- 
+config: 
   name: cjdname
-testers:  
-  instructors:
-  -
-      name: "Chris Decelles"
-      title: "Sr. Platform Architect"
-      email: "cdeelles@pivotal.io"
-      phone: "603.512.5616"
-  -
-      name: "Mark Fynes"
-      title: "Advisory Platform Architect"
-      email: "mark@pivotal.io"
-      phone: "617.333.3333"
-  
-material:
-  day1:
-    -
-      topicID: "00-introduction"
-      timeDescription: "9:30 - 11:30"
-  -
-      topicID: "02-intro-to-pcf"
-      timeDescription: "1:00 - 5:00"
-  day2
-      -
-      topicID: "04-cli"
-      timeDescription: "8:30 - 11:00"
-  -
-      topicID: "06-lab-org-space-user-role"
-      timeDescription: "11:30 - 1:00"
-
-fortune:
-  messages:
+foo: bar
+fortune: 
+  messages: 
     - "People are naturally attracted to you."
     - "You learn from your mistakes... You will learn a lot today."
+hello: world
+testers: 
+  instructors: 
+    - 
+      email: cdeelles@pivotal.io
+      name: "Chris Decelles"
+      phone: "603.512.5616"
+      title: "Sr. Platform Architect"
+    - 
+      email: tfynesk@pivotal.io
+      name: "Mark Fynes"
+      phone: "617.333.3333"
+      title: "Advisory Platform Architect"
+material: 
+  day1: 
+    - 
+      timeDescription: "9:30 - 11:30"
+      topicID: 00-introduction
+    - 
+      timeDescription: "1:00 - 5:00"
+      topicID: 02-intro-to-pcf
+  day2: 
+    - 
+      timeDescription: "8:30 - 11:00"
+      topicID: 04-cli
+    - 
+      timeDescription: "11:30 - 1:00"
+      topicID: 06-lab-org-space-user-role
+
