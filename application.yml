@@ -23,15 +23,15 @@ material:
   day1: 
     - 
       timeDescription: "9:30 - 11:30"
-      topicID: 00-introduction
+      topicID: "00-introduction"
     - 
       timeDescription: "1:00 - 5:00"
-      topicID: 02-intro-to-pcf
+      topicID: "02-intro-to-pcf"
   day2: 
     - 
       timeDescription: "8:30 - 11:00"
-      topicID: 04-cli
+      topicID: "04-cli"
     - 
       timeDescription: "11:30 - 1:00"
-      topicID: 06-lab-org-space-user-role
+      topicID: "06-lab-org-space-user-role"
 
