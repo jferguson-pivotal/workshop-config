@@ -2,18 +2,18 @@ hello: world
 foo: bar
 config:
   name: cjdname
-  
-instructors:
--
-    name: "Chris Decelles"
-    title: "Sr. Platform Architect"
-    email: "cdeelles@pivotal.io"
-    phone: "603.512.5616"
--
-    name: "Mark Fynes"
-    title: "Advisory Platform Architect"
-    email: "mark@pivotal.io"
-    phone: "617.333.3333"
+testers:  
+  instructors:
+  -
+      name: "Chris Decelles"
+      title: "Sr. Platform Architect"
+      email: "cdeelles@pivotal.io"
+      phone: "603.512.5616"
+  -
+      name: "Mark Fynes"
+      title: "Advisory Platform Architect"
+      email: "mark@pivotal.io"
+      phone: "617.333.3333"
   
 fortune:
   messages:
