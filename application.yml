@@ -1,2 +1,4 @@
 hello: world
-config.name : cjdtest
+foo: bar
+config:
+  name: cjdname
