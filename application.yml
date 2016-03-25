@@ -2,3 +2,8 @@ hello: world
 foo: bar
 config:
   name: cjdname
+  
+fortune:
+  messages:
+    - "People are naturally attracted to you."
+    - "You learn from your mistakes... You will learn a lot today."
