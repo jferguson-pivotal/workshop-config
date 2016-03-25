@@ -18,18 +18,18 @@ testers:
 material:
   day1:
     -
-      topicID: "ss1"
-      timeDescription: "Sr. Platform Architect1"
+      topicID: "00-introduction"
+      timeDescription: "9:30 - 11:30"
   -
-      topicID: "ss2"
-      timeDescription: "Sr. Platform Architect2"
+      topicID: "02-intro-to-pcf"
+      timeDescription: "1:00 - 5:00"
   day2
       -
-      topicID: "ss3"
-      timeDescription: "Sr. Platform Architect3"
+      topicID: "04-cli"
+      timeDescription: "8:30 - 11:00"
   -
-      topicID: "ss4"
-      timeDescription: "Sr. Platform Architect3"
+      topicID: "06-lab-org-space-user-role"
+      timeDescription: "11:30 - 1:00"
 
 fortune:
   messages:
