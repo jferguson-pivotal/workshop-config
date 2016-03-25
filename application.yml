@@ -4,12 +4,12 @@ config:
   name: cjdname
   
 instructors:
-  instructor1:
+-
     name: "Chris Decelles"
     title: "Sr. Platform Architect"
     email: "cdeelles@pivotal.io"
     phone: "603.512.5616"
-  instructor2:
+-
     name: "Mark Fynes"
     title: "Advisory Platform Architect"
     email: "mark@pivotal.io"
