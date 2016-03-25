@@ -10,28 +10,33 @@ hello: world
 testers: 
   instructors: 
     - 
-      email: cdeelles@pivotal.io
       name: "Chris Decelles"
-      phone: "603.512.5616"
       title: "Sr. Platform Architect"
+      email: cdeelles@pivotal.io
+      phone: "603.512.5616"
     - 
-      email: tfynesk@pivotal.io
       name: "Mark Fynes"
-      phone: "617.333.3333"
       title: "Advisory Platform Architect"
+      email: tfynesk@pivotal.io
+      phone: "617.333.3333"
+
 material: 
   day1: 
     - 
-      timeDescription: "9:30 - 11:30"
       topicID: "00-introduction"
+      timeDescription: "9:30 - 11:30"
+
     - 
-      timeDescription: "1:00 - 5:00"
       topicID: "02-intro-to-pcf"
+      timeDescription: "1:00 - 5:00"
+
   day2: 
     - 
-      timeDescription: "8:30 - 11:00"
       topicID: "04-cli"
+      timeDescription: "8:30 - 11:00"
+
     - 
-      timeDescription: "11:30 - 1:00"
       topicID: "06-lab-org-space-user-role"
+      timeDescription: "11:30 - 1:00"
+
 
