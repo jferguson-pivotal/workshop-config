@@ -15,6 +15,22 @@ testers:
       email: "mark@pivotal.io"
       phone: "617.333.3333"
   
+material:
+  day1:
+    -
+      topicID: "ss1"
+      timeDescription: "Sr. Platform Architect1"
+  -
+      topicID: "ss2"
+      timeDescription: "Sr. Platform Architect2"
+  day2
+      -
+      topicID: "ss3"
+      timeDescription: "Sr. Platform Architect3"
+  -
+      topicID: "ss4"
+      timeDescription: "Sr. Platform Architect3"
+
 fortune:
   messages:
     - "People are naturally attracted to you."
