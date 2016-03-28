@@ -8,6 +8,10 @@ fortune:
     - "You learn from your mistakes... You will learn a lot today."
 hello: world
 
+courseTitle: "Pivotal Cloud Foundry Workshop"
+courseDate: "March 17 - 18, 2016"
+courseDescription: "This workshop will cover the ..."
+
 customerLogo: "https://workplace.fidelity.com/sites/default/files/fidelity_wps_logo.png"
 testers: 
   instructors: 
