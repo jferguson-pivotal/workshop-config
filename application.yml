@@ -35,6 +35,7 @@ material:
     - 
       topicID: "02-intro-to-pcf"
       timeDescription: "1:00 - 5:00"
+      title: "CJD's PCF Overview"
 
   day2: 
     - 
