@@ -7,6 +7,8 @@ fortune:
     - "People are naturally attracted to you."
     - "You learn from your mistakes... You will learn a lot today."
 hello: world
+
+customerLogo: "https://workplace.fidelity.com/sites/default/files/fidelity_wps_logo.png"
 testers: 
   instructors: 
     - 
