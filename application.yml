@@ -46,30 +46,24 @@ material:
       topicID: "06-lab-org-space-user-role"
       timeDescription: "11:30 - 1:00"
 
-sessions: 
-  day1: 
-    title: "Spring Boot or Session 1 8:00 - 9:30am"
-    - 
-      topicID: "00-introduction"
-      timeDescription: "9:30 - 11:30"
-    - 
-      topicID: "02-intro-to-pcf"
-      timeDescription: "1:00 - 5:00"
-      title: "CJD's PCF Overview"
-    title: "Session 2 or 10:00 - 11:00"
-    - 
-      topicID: "00-introduction"
-      timeDescription: "9:30 - 11:30"
-
-    - 
-      topicID: "02-intro-to-pcf"
-      timeDescription: "1:00 - 5:00"
-
-  day2: 
-    - 
-      topicID: "04-cli"
-      timeDescription: "8:30 - 11:00"
-
-    - 
-      topicID: "06-lab-org-space-user-role"
-      timeDescription: "11:30 - 1:00"
+sessions:
+  - 
+    id: "Day 1"
+    name: "Welcome to Day 1"
+    topis: 
+      - 
+        topicID: "04-cli"
+        topicDescription: "CLI"
+      - 
+        topicID: "06-push"
+        topicDescription: "CF Push"
+  - 
+    id: "Day 2"
+    name: "Welcome to Day 2"
+    tags: 
+      - 
+        topicID: "10-Ops"
+        topicDescription: "Ops"
+      - 
+        topicID: "45-Test"
+        topicDescription: "Testing"
