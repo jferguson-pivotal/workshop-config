@@ -50,7 +50,7 @@ sessions:
   - 
     id: "Day 1"
     name: "Welcome to Day 1"
-    topis: 
+    topics: 
       - 
         topicID: "04-cli"
         topicDescription: "CLI"
@@ -60,7 +60,7 @@ sessions:
   - 
     id: "Day 2"
     name: "Welcome to Day 2"
-    tags: 
+    topics: 
       - 
         topicID: "10-Ops"
         topicDescription: "Ops"
