@@ -46,7 +46,7 @@ material:
       topicID: "06-lab-org-space-user-role"
       timeDescription: "11:30 - 1:00"
 
-Sessions: 
+sessions: 
   day1: 
     title: "Spring Boot or Session 1 8:00 - 9:30am"
     - 
