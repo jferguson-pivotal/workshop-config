@@ -46,10 +46,11 @@ material:
       topicID: "06-lab-org-space-user-role"
       timeDescription: "11:30 - 1:00"
 
-sessions:
-  - 
-    id: "Day 1"
-    name: "Welcome to Day 1"
-  - 
-    id: "Day 2"
-    name: "Welcome to Day 2"
+content:
+  sessions:
+    - 
+      id: "Day 1"
+      name: "Welcome to Day 1"
+   - 
+      id: "Day 2"
+      name: "Welcome to Day 2"
