@@ -50,20 +50,6 @@ sessions:
   - 
     id: "Day 1"
     name: "Welcome to Day 1"
-    topics: 
-      - 
-        topicID: "04-cli"
-        topicDescription: "CLI"
-      - 
-        topicID: "06-push"
-        topicDescription: "CF Push"
   - 
     id: "Day 2"
     name: "Welcome to Day 2"
-    topics: 
-      - 
-        topicID: "10-Ops"
-        topicDescription: "Ops"
-      - 
-        topicID: "45-Test"
-        topicDescription: "Testing"
