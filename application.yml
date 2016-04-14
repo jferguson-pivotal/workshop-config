@@ -49,7 +49,8 @@ material:
 content:
   sessions:
     - 
-      id: "Day 1"
+      id: "day1"
+      name: "Day 1"
       description: "Welcome to Day 1"
       topics:
       -
@@ -63,7 +64,8 @@ content:
         description: "tieldesc2"
         slideURL: "slide ur2l"
     - 
-      id: "Day 2"
+      id: "day2"
+      name: "Day 2"
       description: "Welcome to Day 2"
       topics:
       -
