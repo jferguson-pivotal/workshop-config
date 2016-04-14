@@ -53,10 +53,12 @@ content:
       description: "Welcome to Day 1"
       topics:
       -
+        topicID: "00-introduction"
         title: "tiel1"
         description: "tieldesc"
         slideURL: "slide url1"
       -
+        topicID: "02-intro-to-pcf"
         title: "tiel2"
         description: "tieldesc2"
         slideURL: "slide ur2l"
@@ -65,10 +67,12 @@ content:
       description: "Welcome to Day 2"
       topics:
       -
+        topicID: "02-intro-to-pcf"
         title: "tiel1"
         description: "tieldesc"
         slideURL: "slide url1"
       -
+        topicID: "02-intro-to-pcf"
         title: "tiel2"
         description: "tieldesc2"
         slideURL: "slide ur2l"
