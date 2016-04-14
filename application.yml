@@ -25,27 +25,6 @@ workshop:
       title: "Advisory Platform Architect"
       email: tfynesk@pivotal.io
       phone: "617.333.3333"
-
-material: 
-  day1: 
-    - 
-      topicID: "00-introduction"
-      timeDescription: "9:30 - 11:30"
-
-    - 
-      topicID: "02-intro-to-pcf"
-      timeDescription: "1:00 - 5:00"
-      title: "CJD's PCF Overview"
-
-  day2: 
-    - 
-      topicID: "04-cli"
-      timeDescription: "8:30 - 11:00"
-
-    - 
-      topicID: "06-lab-org-space-user-role"
-      timeDescription: "11:30 - 1:00"
-
 content:
   sessions:
     - 
@@ -54,12 +33,12 @@ content:
       description: "Welcome to Day 1"
       topics:
       -
-        topicID: "00-introduction"
+        id: "00-introduction"
         title: "tiel1"
         description: "tieldesc"
         slideURL: "slide url1"
       -
-        topicID: "02-intro-to-pcf"
+        id: "02-intro-to-pcf"
         title: "tiel2"
         description: "tieldesc2"
         slideURL: "slide ur2l"
@@ -69,12 +48,12 @@ content:
       description: "Welcome to Day 2"
       topics:
       -
-        topicID: "02-intro-to-pcf"
+        id: "02-intro-to-pcf"
         title: "tiel1"
         description: "tieldesc"
         slideURL: "slide url1"
       -
-        topicID: "02-intro-to-pcf"
+        id: "02-intro-to-pcf"
         title: "tiel2"
         description: "tieldesc2"
         slideURL: "slide ur2l"
