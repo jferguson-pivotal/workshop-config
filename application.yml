@@ -33,26 +33,14 @@ workshop:
       topics:
       -
         id: "00-introduction"
-        title: "tiel1"
-        description: "tieldesc"
-        slideURL: "slide url1"
       -
         id: "02-intro-to-pcf"
-        title: "tiel2"
-        description: "tieldesc2"
-        slideURL: "slide ur2l"
     - 
       id: "day2"
       name: "Day 2"
       description: "Welcome to Day 2"
       topics:
       -
-        id: "02-intro-to-pcf"
-        title: "tiel1"
-        description: "tieldesc"
-        slideURL: "slide url1"
+        id: "60-security-and-sso"
       -
-        id: "02-intro-to-pcf"
-        title: "tiel2"
-        description: "tieldesc2"
-        slideURL: "slide ur2l"
+        id: "62-buildpacks"
