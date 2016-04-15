@@ -25,6 +25,19 @@ workshop:
       title: "Advisory Platform Architect"
       email: tfynesk@pivotal.io
       phone: "617.333.3333"
+  resources:
+    -
+      title: "Pivotal Network"
+      url: "https://network.pivotal.io/"
+    -
+      title: "Pivotal Documentation"
+      url: "http://docs.pivotal.io/"
+    -
+      title: "cf CLI Documentation"
+      url: "https://docs.pivotal.io/pivotalcf/cf-cli/getting-started.html"
+    -
+      title: "Manifest Documentation"
+      url: "https://docs.pivotal.io/pivotalcf/devguide/deploy-apps/manifest.html"
   sessions:
     - 
       id: "day1"
