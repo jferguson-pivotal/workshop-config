@@ -38,6 +38,15 @@ workshop:
     -
       title: "Manifest Documentation"
       url: "https://docs.pivotal.io/pivotalcf/devguide/deploy-apps/manifest.html"
+    -
+      title: "Spring Documentation"
+      url: "https://spring.io/docs"
+    -
+      title: "Spring Initializr"
+      url: "http://start.spring.io/"
+    -
+      title: "Pivotal Web Services"
+      url: "https://run.pivotal.io/"
   sessions:
     - 
       id: "day1"
