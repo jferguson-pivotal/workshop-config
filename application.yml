@@ -9,6 +9,7 @@ fortune:
 hello: world
 
 workshop: 
+  hostURL: "https://cdn.enablement.pivotal.io/cna16/agenda"
   title: "Pivotal Cloud Foundry Workshop"
   date: "March 17 - 18, 2016"
   description: "This workshop will cover the ..."
