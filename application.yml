@@ -57,6 +57,7 @@ workshop:
         id: "00-introduction"
       -
         id: "02-intro-to-pcf"
+        description: "CJD PCF Rules"
     - 
       id: "day2"
       name: "Day 2"
