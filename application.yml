@@ -13,8 +13,8 @@ workshop:
   title: "Pivotal Cloud Foundry Workshop"
   date: "March 17 - 18, 2016"
   description: "This workshop will cover the ..."
-  customerLogo1: "https://workplace.fidelity.com/sites/default/files/fidelity_wps_logo.png"
-  customerLogo: "http://www.cvs.com/webcontent/images/common/cvs-logo.png"
+  customerLogo: "https://workplace.fidelity.com/sites/default/files/fidelity_wps_logo.png"
+  customerLogo1: "http://www.cvs.com/webcontent/images/common/cvs-logo.png"
   instructors: 
     - 
       name: "Chris Joseph Decelles"
