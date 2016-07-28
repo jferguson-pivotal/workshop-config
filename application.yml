@@ -11,10 +11,10 @@ hello: world
 workshop: 
   contentURL: "https://cdn.enablement.pivotal.io/cna16/agenda"
   title: "Pivotal Cloud Foundry Workshop"
-  date: "March 17 - 18, 2016"
+  date: "August 16 - 17, 2016"
   description: "This workshop will cover the ..."
-  customerLogo: "https://workplace.fidelity.com/sites/default/files/fidelity_wps_logo.png"
-  customerLogo1: "http://www.cvs.com/webcontent/images/common/cvs-logo.png"
+  customerLogo: "http://www.johnhancock.com/resources/images/common/john-hancock-logo.gif"
+  customerLogo1: "https://workplace.fidelity.com/sites/default/files/fidelity_wps_logo.png"
   instructors: 
     - 
       name: "Chris Joseph Decelles"
