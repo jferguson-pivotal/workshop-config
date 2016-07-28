@@ -17,15 +17,10 @@ workshop:
   customerLogo1: "https://workplace.fidelity.com/sites/default/files/fidelity_wps_logo.png"
   instructors: 
     - 
-      name: "Chris Joseph Decelles"
+      name: "Chris Decelles"
       title: "Sr. Platform Architect"
-      email: cdeelles@pivotal.io
+      email: cdecelles@pivotal.io
       phone: "603.512.5616"
-    - 
-      name: "Mark Fynes"
-      title: "Advisory Platform Architect"
-      email: tfynesk@pivotal.io
-      phone: "617.333.3333"
   resources:
     -
       title: "Pivotal Network"
