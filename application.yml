@@ -69,6 +69,8 @@ workshop:
         id: "00-introduction"
       -
         id: "02-intro-to-pcf"
+      -
+        id: "80-cs-spring-boot-basics"
     - 
       id: "day2"
       name: "Day 2"
