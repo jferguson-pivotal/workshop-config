@@ -9,9 +9,9 @@ fortune:
 hello: world
 
 workshop: 
-  contentURL: "https://cdn.enablement.pivotal.io/cna16/agenda"
+  contentURL: "https://workshop-content.cfapps.io"
   title: "Pivotal Cloud Foundry Workshop"
-  date: "August 16 - 17, 2016"
+  date: "August 16, 2016"
   description: "This workshop will cover the ..."
   customerLogo: ""
   customerLogo2: "http://www.johnhancock.com/resources/images/common/john-hancock-logo.gif"
@@ -69,7 +69,6 @@ workshop:
         id: "00-introduction"
       -
         id: "02-intro-to-pcf"
-        description: "CJD PCF Rules"
     - 
       id: "day2"
       name: "Day 2"
