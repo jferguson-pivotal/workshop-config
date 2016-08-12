@@ -62,8 +62,8 @@ workshop:
   sessions:
     - 
       id: "day1"
-      name: "Day 1"
-      description: "Welcome to Day 1"
+      name: "August 16"
+      description: "Content for August, 16"
       topics:
       -
         id: "00-introduction"
@@ -89,12 +89,3 @@ workshop:
         id: "59-oauth-primer"
       -
         id: "60-security-and-sso"
-    - 
-      id: "day2"
-      name: "Day 2"
-      description: "Welcome to Day 2"
-      topics:
-      -
-        id: "60-security-and-sso"
-      -
-        id: "62-buildpacks"
