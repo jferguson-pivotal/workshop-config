@@ -76,6 +76,10 @@ workshop:
       -
         id: "14-services"
       -
+        id: "micro"
+        title: "micro"
+        description: "Microservices"
+      -
         id: "68-cloud-native-design"
       -
         id: "70-microservices"
