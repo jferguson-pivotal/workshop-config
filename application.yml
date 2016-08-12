@@ -85,6 +85,10 @@ workshop:
         id: "70-microservices"
       -
         id: "80-cs-spring-boot-basics"
+      -
+        id: "59-oauth-primer"
+      -
+        id: "60-security-and-sso"
     - 
       id: "day2"
       name: "Day 2"
