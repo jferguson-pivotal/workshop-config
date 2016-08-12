@@ -82,6 +82,14 @@ workshop:
       -
         id: "80-cs-spring-boot-basics"
       -
+        id: "82-cs-spring-boot-adv"
+      -
+        id: "config"
+      -
+        id: "service-discovery"
+      -
+        id: "circuit-breakers"
+      -
         id: "59-oauth-primer"
       -
         id: "60-security-and-sso"
