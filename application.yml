@@ -66,8 +66,6 @@ workshop:
       description: "Content for August, 16"
       topics:
       -
-        id: "00-introduction"
-      -
         id: "02-intro-to-pcf"
       -
         id: "04-cli"
