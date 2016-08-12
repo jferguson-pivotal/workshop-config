@@ -13,9 +13,7 @@ workshop:
   title: "Pivotal Cloud Foundry Workshop"
   date: "August 16, 2016"
   description: "This workshop will cover the ..."
-  customerLogo: ""
-  customerLogo2: "http://www.johnhancock.com/resources/images/common/john-hancock-logo.gif"
-  customerLogo1: "https://workplace.fidelity.com/sites/default/files/fidelity_wps_logo.png"
+  customerLogo: "http://www.johnhancock.com/resources/images/common/john-hancock-logo.gif"
   instructors: 
     - 
       name: "Chris Decelles"
