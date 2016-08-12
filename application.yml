@@ -70,7 +70,7 @@ workshop:
       -
         id: "02-intro-to-pcf"
       -
-        id: "04-lab-cli"
+        id: "04-cli"
       -
         id: "06-org-space-user-role"
       -
