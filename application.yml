@@ -77,22 +77,30 @@ workshop:
         id: "14-services"
       -
         id: "micro"
-        title: "micro"
-        description: "Microservices"
+        title: "Microservices"
       -
         id: "68-cloud-native-design"
       -
         id: "70-microservices"
       -
+        id: "springboot"
+        title: "Spring Boot"
+      -
         id: "80-cs-spring-boot-basics"
       -
         id: "82-cs-spring-boot-adv"
+      -
+        id: "scs"
+        title: "Spring Cloud"
       -
         id: "config"
       -
         id: "service-discovery"
       -
         id: "circuit-breakers"
+      -
+        id: "security"
+        title: "Security"
       -
         id: "59-oauth-primer"
       -
