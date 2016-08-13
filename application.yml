@@ -60,7 +60,7 @@ workshop:
   sessions:
     - 
       id: "day1"
-      name: "August 16"
+      name: "Agenda"
       description: "Content for August, 16"
       topics:
       -
