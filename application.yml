@@ -90,6 +90,8 @@ workshop:
       -
         id: "82-cs-spring-boot-adv"
       -
+        id: "actuator"
+      -
         id: "scs"
         title: "Spring Cloud"
       -
