@@ -11,14 +11,19 @@ hello: world
 workshop: 
   contentURL: "https://workshop-content.cfapps.io"
   title: "Pivotal Cloud Foundry Workshop"
-  date: "August 16, 2016"
+  date: "September 8-9, 2016"
   description: "This workshop will cover the ..."
-  customerLogo: "http://www.johnhancock.com/resources/images/common/john-hancock-logo.gif"
+  customerLogo: "http://investor.citizensbank.com/~/media/Images/C/CitizensBank-IR/logo/logo.png?h=44&la=en&w=158"
   instructors: 
     - 
       name: "Chris Decelles"
       title: "Sr. Platform Architect"
       email: cdecelles@pivotal.io
+      phone: "603.512.5616"
+    - 
+      name: "Ravi J."
+      title: "Platform Architect"
+      email: ravi@pivotal.io
       phone: "603.512.5616"
   resources:
     -
