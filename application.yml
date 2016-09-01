@@ -68,22 +68,22 @@ workshop:
       topics:
       -
         id: "session1"
-        title: "9:00 AM - 9:45 AM"
+        title: "Session 1: 9:00 AM - 9:45 AM"
       -
         id: "02-intro-to-pcf"
         title: "Welcome to the Cloud Native Enterprise"
       -
         id: "session1lab"
-        title: "9:45 AM - 10:15 AM"
+        title: "Demo: 9:45 AM - 10:15 AM"
       -
         id: "04-cli"
-        title: "Demo: Pushing your first app, Apps Manager"
+        title: "Pushing your first app, Apps Manager"
       -
         id: "day1ambreak"
         title: "Break 10:15 AM - 10:30 AM"
       -
         id: "session2"
-        title: "10:30 AM - 12:00 PM"
+        title: "Session 2: 10:30 AM - 12:00 PM"
       -
         id: "06-org-space-user-role"
         title: "Pivotal Cloud Foundry Architecture and Containers"
@@ -95,16 +95,16 @@ workshop:
         title: "Lunch 12:00 PM - 1:00 PM"
       -
         id: "session3"
-        title: "1:00 PM - 1:30 PM"
+        title: "Session 3: 1:00 PM - 1:30 PM"
       -
         id: "10-application-manifest"
-        title: "Session 3: Pivotal Cloud Foundry Services"
+        title: "Pivotal Cloud Foundry Services"
       -
         id: "day1labs"
-        title: "1:30 PM - 3:30 PM"
+        title: "Labs: 1:30 PM - 3:30 PM"
       -
         id: "14-services"
-        title: "Labs - Push, Scale, Bind and Monitor your app"
+        title: "Push, Scale, Bind and Monitor your app"
       -
         id: "day1pmbreak"
         title: "Break 3:30 PM - 3:45 PM"
