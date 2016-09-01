@@ -83,7 +83,7 @@ workshop:
         title: "Break 10:15 AM - 10:30 AM"
       -
         id: "session2"
-        title: "Break 10:30 AM - 12:00 PM"
+        title: "10:30 AM - 12:00 PM"
       -
         id: "06-org-space-user-role"
         title: "Pivotal Cloud Foundry Architecture and Containers"
@@ -101,7 +101,7 @@ workshop:
         title: "Session 3: Pivotal Cloud Foundry Services"
       -
         id: "day1labs"
-        title: "Labs 1:30 PM - 3:30 PM"
+        title: "1:30 PM - 3:30 PM"
       -
         id: "14-services"
         title: "Labs - Push, Scale, Bind and Monitor your app"
