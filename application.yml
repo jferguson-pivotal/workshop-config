@@ -69,7 +69,7 @@ workshop:
         id: "session1"
         title: "Session 1: 9:00 AM - 9:45 AM"
       -
-        id: "session1-cne"
+        id: "pcf101-session1-cne"
       -
         id: "session1lab"
         title: "Demo: 9:45 AM - 10:15 AM"
@@ -83,7 +83,7 @@ workshop:
         id: "session2"
         title: "Session 2: 10:30 AM - 12:00 PM"
       -
-        id: "session2-arch-oper"
+        id: "pcf101-session2-arch-oper"
         title: "Pivotal Cloud Foundry Architecture and Containers"
       -
         id: "08-deploy-simple-app"
@@ -95,7 +95,7 @@ workshop:
         id: "session3"
         title: "Session 3: 1:00 PM - 1:30 PM"
       -
-        id: "session3-services"
+        id: "pcf101-session3-services"
         title: "Pivotal Cloud Foundry Services"
       -
         id: "day1labs"
