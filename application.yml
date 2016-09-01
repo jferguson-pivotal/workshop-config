@@ -122,9 +122,7 @@ workshop:
       topics:
       -
         id: "session1"
-        title: "Session 1"
-      -
-        id: "02-intro-to-pcf"
+        title: "Application Development"
       -
         id: "04-cli"
       -
@@ -134,7 +132,7 @@ workshop:
       -
         id: "10-application-manifest"
       -
-        id: "14-services"
+        id: "12-domains-and-routes"
       -
         id: "micro"
         title: "Microservices"
