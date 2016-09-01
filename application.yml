@@ -84,43 +84,26 @@ workshop:
         id: "dayambreak"
         title: "Break 10:15 AM - 10:30 AM"
       -
+        id: "session2"
+        title: "Break 10:30 AM - 12:00 PM"
+      -
         id: "06-org-space-user-role"
+        title: "Session 2: Pivotal Cloud Foundry Architecture and Containers"
       -
         id: "08-deploy-simple-app"
+        title: "Session 2: Pivotal Cloud Foundry for Operators"
+      -
+        id: "day1Lunch"
+        title: "Break 12:00 PM - 1:00 PM"
+      -
+        id: "session3"
+        title: "Break 1:00 PM - 1:30 PM"
       -
         id: "10-application-manifest"
+        title: "Session 3: Pivotal Cloud Foundry Services"
       -
         id: "14-services"
-      -
-        id: "micro"
-        title: "Microservices"
-      -
-        id: "68-cloud-native-design"
-      -
-        id: "70-microservices"
-      -
-        id: "springboot"
-        title: "Spring Boot"
-      -
-        id: "80-cs-spring-boot-basics"
-      -
-        id: "82-cs-spring-boot-adv"
-      -
-        id: "scs"
-        title: "Spring Cloud"
-      -
-        id: "config"
-      -
-        id: "service-discovery"
-      -
-        id: "circuit-breakers"
-      -
-        id: "security"
-        title: "Security"
-      -
-        id: "59-oauth-primer"
-      -
-        id: "60-security-and-sso"
+        title: "Labs - Push, Scale, Bind and Monitor your app"
     - 
       id: "day2"
       name: "Day 2"
