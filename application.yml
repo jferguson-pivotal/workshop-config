@@ -19,10 +19,9 @@ workshop:
       email: cdecelles@pivotal.io
       phone: "603.512.5616"
     - 
-      name: "Ravi J."
+      name: "Ravi Jagannathan"
       title: "Platform Architect"
-      email: ravi@pivotal.io
-      phone: "603.512.5616"
+      email: rjagannathan@pivotal.io
   resources:
     -
       title: "Pivotal Network"
