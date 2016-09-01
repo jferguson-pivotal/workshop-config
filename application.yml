@@ -70,11 +70,19 @@ workshop:
       topics:
       -
         id: "session1"
-        title: "Session 1"
+        title: "9:00 AM - 9:45 AM"
       -
         id: "02-intro-to-pcf"
+        title: "Session 1: Welcome to the Cloud Native Enterprise"
+      -
+        id: "session1lab"
+        title: "9:45 AM - 10:15 AM"
       -
         id: "04-cli"
+        title: "Demo: Pushing your first app, Apps Manager"
+      -
+        id: "dayambreak"
+        title: "Break 10:15 AM - 10:30 AM"
       -
         id: "06-org-space-user-role"
       -
