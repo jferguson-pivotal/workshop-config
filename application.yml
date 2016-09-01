@@ -65,9 +65,12 @@ workshop:
   sessions:
     - 
       id: "day1"
-      name: "Agenda"
-      description: "Content for August, 16"
+      name: "Day 1"
+      description: "Content for September, 8"
       topics:
+      -
+        id: "session1"
+        title: "Session 1"
       -
         id: "02-intro-to-pcf"
       -
@@ -110,3 +113,54 @@ workshop:
         id: "59-oauth-primer"
       -
         id: "60-security-and-sso"
+    - 
+      id: "day2"
+      name: "Day 2"
+      description: "Content for September, 9"
+      topics:
+      -
+        id: "session1"
+        title: "Session 1"
+      -
+        id: "02-intro-to-pcf"
+      -
+        id: "04-cli"
+      -
+        id: "06-org-space-user-role"
+      -
+        id: "08-deploy-simple-app"
+      -
+        id: "10-application-manifest"
+      -
+        id: "14-services"
+      -
+        id: "micro"
+        title: "Microservices"
+      -
+        id: "68-cloud-native-design"
+      -
+        id: "70-microservices"
+      -
+        id: "springboot"
+        title: "Spring Boot"
+      -
+        id: "80-cs-spring-boot-basics"
+      -
+        id: "82-cs-spring-boot-adv"
+      -
+        id: "scs"
+        title: "Spring Cloud"
+      -
+        id: "config"
+      -
+        id: "service-discovery"
+      -
+        id: "circuit-breakers"
+      -
+        id: "security"
+        title: "Security"
+      -
+        id: "59-oauth-primer"
+      -
+        id: "60-security-and-sso"
+
