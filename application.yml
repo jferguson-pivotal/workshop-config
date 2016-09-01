@@ -12,8 +12,6 @@ workshop:
   contentURL: "https://workshop-content.cfapps.io"
   title: "Pivotal Cloud Foundry Workshop"
   date: "September 8-9, 2016"
-  description: "This workshop will cover the ..."
-  customerLogo: "http://investor.citizensbank.com/~/media/Images/C/CitizensBank-IR/logo/logo.png?h=88&la=en&w=316"
   instructors: 
     - 
       name: "Chris Decelles"
