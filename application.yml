@@ -74,7 +74,7 @@ workshop:
         id: "session1lab"
         title: "Demo: 9:45 AM - 10:15 AM"
       -
-        id: "04-cli"
+        id: "emptysession"
         title: "Pushing your first app, Apps Manager"
       -
         id: "day1ambreak"
@@ -86,7 +86,7 @@ workshop:
         id: "pcf101-session2-arch-oper"
         title: "Pivotal Cloud Foundry Architecture and Containers"
       -
-        id: "08-deploy-simple-app"
+        id: "pcf101-session2-arch-oper"
         title: "Pivotal Cloud Foundry for Operators"
       -
         id: "day1Lunch"
