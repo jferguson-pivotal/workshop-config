@@ -152,7 +152,9 @@ workshop:
         id: "12-domains-and-routes"
       -
         id: "micro"
-        title: "Microservices"
+        title: "Continous Delivery and Cloud Native Apps"
+      -
+        id: "66-continuous-delivery"
       -
         id: "68-cloud-native-design"
       -
