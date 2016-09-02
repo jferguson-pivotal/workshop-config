@@ -118,7 +118,19 @@ workshop:
         title: "Open Discussion: 3:45 PM - 5:00 PM"
       -
         id: "day1open1"
-        title: "COTS"
+        title: "CI / CD"
+        slideURL: "CICD.pdf"
+      -
+        id: "day1open2"
+        title: "COTS / ERP / Packaged Software"
+        slideURL: "COTS.pd"
+      -
+        id: "day1open3"
+        title: "Cloud Management / Governance"
+        slideURL: "COTS.pd"
+      -
+        id: "day1open4"
+        title: "PCF / Bluemix"
         slideURL: "COTS.pd"
     - 
       id: "day2"
