@@ -139,8 +139,6 @@ workshop:
       -
         id: "06-org-space-user-role"
       -
-        id: "08-deploy-simple-app"
-      -
         id: "10-application-manifest"
       -
         id: "12-domains-and-routes"
