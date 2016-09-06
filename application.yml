@@ -117,15 +117,15 @@ workshop:
         id: "day1open"
         title: "Open Discussion: 3:45 PM - 5:00 PM"
       -
-        id: "day1open2"
+        id: "emptysession"
         title: "COTS / ERP / Packaged Software"
         slideURL: "COTS.pd"
       -
-        id: "day1open3"
+        id: "emptysession"
         title: "Cloud Management / Governance"
         slideURL: "COTS.pd"
       -
-        id: "day1open4"
+        id: "emptysession"
         title: "PCF / Bluemix"
         slideURL: "COTS.pd"
     - 
