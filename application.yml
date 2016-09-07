@@ -66,9 +66,6 @@ workshop:
       description: "Content for September, 8"
       topics:
       -
-        id: "session1"
-        title: "Session 1: 9:00 AM - 9:45 AM"
-      -
         id: "pcf101-session1-cne"
       -
         id: "session1lab"
@@ -81,7 +78,7 @@ workshop:
         title: "Break 10:15 AM - 10:30 AM"
       -
         id: "session2"
-        title: "Session 2: 10:30 AM - 12:00 PM"
+        title: "PCF Architecture & Operations"
       -
         id: "pcf101-session2-arch"
       -
@@ -89,9 +86,6 @@ workshop:
       -
         id: "day1Lunch"
         title: "Lunch 12:00 PM - 1:00 PM"
-      -
-        id: "session3"
-        title: "Session 3: 1:00 PM - 1:30 PM"
       -
         id: "pcf101-session3-services"
         title: "Pivotal Cloud Foundry Services"
@@ -116,7 +110,7 @@ workshop:
         title: "Break 3:30 PM - 3:45 PM"
       -
         id: "day1open"
-        title: "Open Discussion: 3:45 PM - 5:00 PM"
+        title: "Open Discussions:"
       -
         id: "56-cloud-controller-API"
       -
