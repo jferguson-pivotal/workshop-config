@@ -96,16 +96,21 @@ workshop:
         id: "pcf101-session3-services"
         title: "Pivotal Cloud Foundry Services"
       -
-        id: "day1labs"
-        title: "Labs: 1:30 PM - 3:30 PM"
+        id: "micro"
+        title: "Continous Delivery and Cloud Native Apps"
       -
-        id: "pcf101-lab1"
+        id: "66-continuous-delivery"
       -
-        id: "pcf101-lab2"
+        id: "68-cloud-native-design"
       -
-        id: "pcf101-lab3"
+        id: "70-microservices"
       -
-        id: "pcf101-lab4"
+        id: "security"
+        title: "Security"
+      -
+        id: "59-oauth-primer"
+      -
+        id: "60-security-and-sso"
       -
         id: "day1pmbreak"
         title: "Break 3:30 PM - 3:45 PM"
@@ -141,15 +146,6 @@ workshop:
       -
         id: "12-domains-and-routes"
       -
-        id: "micro"
-        title: "Continous Delivery and Cloud Native Apps"
-      -
-        id: "66-continuous-delivery"
-      -
-        id: "68-cloud-native-design"
-      -
-        id: "70-microservices"
-      -
         id: "springboot"
         title: "Spring Boot"
       -
@@ -165,11 +161,4 @@ workshop:
         id: "service-discovery"
       -
         id: "circuit-breakers"
-      -
-        id: "security"
-        title: "Security"
-      -
-        id: "59-oauth-primer"
-      -
-        id: "60-security-and-sso"
 
