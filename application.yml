@@ -115,17 +115,17 @@ workshop:
         id: "day1open"
         title: "Open Discussion: 3:45 PM - 5:00 PM"
       -
+        id: "56-cloud-controller-API"
+      -
+        id: "58-service-broker"
+      -
+        id: "62-buildpacks"
+      -
         id: "emptysession"
         title: "COTS / ERP / Packaged Software"
-        slideURL: "COTS.pd"
       -
         id: "emptysession"
         title: "Cloud Management / Governance"
-        slideURL: "COTS.pd"
-      -
-        id: "emptysession"
-        title: "PCF / Bluemix"
-        slideURL: "COTS.pd"
     - 
       id: "day2"
       name: "Day 2"
