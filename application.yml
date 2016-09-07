@@ -83,11 +83,9 @@ workshop:
         id: "session2"
         title: "Session 2: 10:30 AM - 12:00 PM"
       -
-        id: "pcf101-session2-arch-oper"
-        title: "Pivotal Cloud Foundry Architecture and Containers"
+        id: "pcf101-session2-arc"
       -
-        id: "pcf101-session2-arch-oper"
-        title: "Pivotal Cloud Foundry for Operators"
+        id: "pcf101-session2a-oper"
       -
         id: "day1Lunch"
         title: "Lunch 12:00 PM - 1:00 PM"
