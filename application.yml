@@ -78,7 +78,7 @@ workshop:
         title: "Break 10:15 AM - 10:30 AM"
       -
         id: "session2"
-        title: "PCF Architecture & Operations"
+        title: "PCF Architecture and Operations"
       -
         id: "pcf101-session2-arch"
       -
