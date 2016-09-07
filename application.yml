@@ -66,6 +66,9 @@ workshop:
       description: "Content for September, 8"
       topics:
       -
+        id: "session1"
+        title: "Cloud Native Enterprise"
+      -
         id: "pcf101-session1-cne"
       -
         id: "session1lab"
