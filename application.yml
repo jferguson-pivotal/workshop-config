@@ -137,6 +137,8 @@ workshop:
       -
         id: "04-cli"
       -
+        id: "08-deploy-simple-app"
+      -
         id: "06-org-space-user-role"
       -
         id: "10-application-manifest"
