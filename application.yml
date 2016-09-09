@@ -123,9 +123,6 @@ workshop:
       -
         id: "emptysession"
         title: "COTS / ERP / Packaged Software"
-      -
-        id: "emptysession"
-        title: "Cloud Management / Governance"
     - 
       id: "day2"
       name: "Day 2"
