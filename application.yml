@@ -11,15 +11,17 @@ hello: world
 workshop: 
   contentURL: "https://workshop-content.cfapps.io"
   title: "Pivotal Cloud Foundry Workshop"
-  date: "August 16, 2016"
-  description: "This workshop will cover the ..."
-  customerLogo: "http://www.johnhancock.com/resources/images/common/john-hancock-logo.gif"
+  date: "September 8-9, 2016"
   instructors: 
     - 
       name: "Chris Decelles"
       title: "Sr. Platform Architect"
       email: cdecelles@pivotal.io
       phone: "603.512.5616"
+    - 
+      name: "Ravi Jagannathan"
+      title: "Platform Architect"
+      email: rjagannathan@pivotal.io
   resources:
     -
       title: "Pivotal Network"
@@ -60,28 +62,85 @@ workshop:
   sessions:
     - 
       id: "day1"
-      name: "Agenda"
-      description: "Content for August, 16"
+      name: "Day 1"
+      description: "Content for September, 8"
       topics:
       -
-        id: "02-intro-to-pcf"
+        id: "session1"
+        title: "Cloud Native Enterprise"
       -
-        id: "04-cli"
+        id: "pcf101-session1-cne"
       -
-        id: "06-org-space-user-role"
+        id: "session1lab"
+        title: "Demo: 9:45 AM - 10:15 AM"
       -
-        id: "08-deploy-simple-app"
+        id: "emptysession"
+        title: "Pushing your first app, Apps Manager"
       -
-        id: "10-application-manifest"
+        id: "day1ambreak"
+        title: "Break 10:15 AM - 10:30 AM"
       -
-        id: "14-services"
+        id: "session2"
+        title: "PCF Architecture and Operations"
+      -
+        id: "pcf101-session2-arch"
+      -
+        id: "pcf101-session2a-oper"
+      -
+        id: "day1Lunch"
+        title: "Lunch 12:00 PM - 1:00 PM"
+      -
+        id: "pcf101-session3-services"
+        title: "Pivotal Cloud Foundry Services"
       -
         id: "micro"
-        title: "Microservices"
+        title: "Continous Delivery and Cloud Native Apps"
+      -
+        id: "66-continuous-delivery"
       -
         id: "68-cloud-native-design"
       -
         id: "70-microservices"
+      -
+        id: "security"
+        title: "Security"
+      -
+        id: "59-oauth-primer"
+      -
+        id: "60-security-and-sso"
+      -
+        id: "day1pmbreak"
+        title: "Break 3:30 PM - 3:45 PM"
+      -
+        id: "day1open"
+        title: "Open Discussions:"
+      -
+        id: "56-cloud-controller-API"
+      -
+        id: "58-service-broker"
+      -
+        id: "62-buildpacks"
+      -
+        id: "emptysession"
+        title: "COTS / ERP / Packaged Software"
+    - 
+      id: "day2"
+      name: "Day 2"
+      description: "Content for September, 9"
+      topics:
+      -
+        id: "session1"
+        title: "Application Development"
+      -
+        id: "04-cli"
+      -
+        id: "08-deploy-simple-app"
+      -
+        id: "06-org-space-user-role"
+      -
+        id: "10-application-manifest"
+      -
+        id: "12-domains-and-routes"
       -
         id: "springboot"
         title: "Spring Boot"
@@ -98,10 +157,3 @@ workshop:
         id: "service-discovery"
       -
         id: "circuit-breakers"
-      -
-        id: "security"
-        title: "Security"
-      -
-        id: "59-oauth-primer"
-      -
-        id: "60-security-and-sso"
