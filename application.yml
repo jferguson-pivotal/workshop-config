@@ -99,6 +99,19 @@ workshop:
         id: "60-security-and-sso"
       -
         id: "62-buildpacks"
+      -
+        id: "session3"
+        title: "Cloud Native Apps and Continuous Delivery"
+      -
+        id: "why-cloud-native-slides"
+      -
+        id: "cna-culture-changes-slides"
+      -
+        id: "66-continuous-delivery"
+      -
+        id: "68-cloud-native-design"
+      -
+        id: "70-microservices"
     - 
       id: "day2"
       name: "Day 2"
