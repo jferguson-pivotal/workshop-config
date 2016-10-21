@@ -124,7 +124,7 @@ workshop:
         id: "80-cs-spring-boot-basics"
       -
         id: "82-cs-spring-boot-adv"
-              -
+      -
         id: "actuator"
       -
         id: "spring-data-rest"
