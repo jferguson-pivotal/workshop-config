@@ -118,31 +118,27 @@ workshop:
       description: "Content for October, 26"
       topics:
       -
-        id: "session1"
-        title: "Application Development"
-      -
-        id: "04-cli"
-      -
-        id: "08-deploy-simple-app"
-      -
-        id: "06-org-space-user-role"
-      -
-        id: "10-application-manifest"
-      -
-        id: "12-domains-and-routes"
-      -
         id: "springboot"
         title: "Spring Boot"
       -
         id: "80-cs-spring-boot-basics"
       -
         id: "82-cs-spring-boot-adv"
+              -
+        id: "actuator"
+      -
+        id: "spring-data-rest"
       -
         id: "scs"
-        title: "Spring Cloud"
+        title: "Spring Cloud Services"
       -
         id: "config"
       -
         id: "service-discovery"
       -
         id: "circuit-breakers"
+      -
+        id: "scs"
+        title: "Spring Cloud Data Flow"
+      -
+        id: "config"
