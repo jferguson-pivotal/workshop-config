@@ -137,8 +137,3 @@ workshop:
         id: "service-discovery"
       -
         id: "circuit-breakers"
-      -
-        id: "datamicroservices"
-        title: "Data Microservices"
-      -
-        id: "springcloud-dataflow"
