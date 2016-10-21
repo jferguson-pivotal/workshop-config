@@ -139,6 +139,6 @@ workshop:
         id: "circuit-breakers"
       -
         id: "scs"
-        title: "Data Microservices - Spring Cloud Data Flow"
+        title: "Data Microservices"
       -
         id: "springcloud-dataflow"
