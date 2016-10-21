@@ -77,8 +77,6 @@ workshop:
       -
         id: "12-domains-and-routes"
       -
-        id: "12-domains-and-routes"
-      -
         id: "14-services"
       -
         id: "20a-opsmgr-and-bosh-short"
