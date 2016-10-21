@@ -11,15 +11,17 @@ hello: world
 workshop: 
   contentURL: "https://workshop-content.cfapps.io"
   title: "Pivotal Cloud Foundry Workshop"
-  date: "October 25 & 26, 2016"
-  description: "This workshop will cover the ..."
-  customerLogo: "http://www.johnhancock.com/resources/images/common/john-hancock-logo.gif"
+  date: "September 8-9, 2016"
   instructors: 
     - 
       name: "Chris Decelles"
       title: "Sr. Platform Architect"
       email: cdecelles@pivotal.io
       phone: "603.512.5616"
+    - 
+      name: "Ravi J."
+      title: "Platform Architect"
+      email: rjagannathan@pivotal.io
   resources:
     -
       title: "Pivotal Network"
@@ -61,7 +63,70 @@ workshop:
     - 
       id: "day1"
       name: "Day 1"
-      description: "Content for October, 25"
+      description: "Content for September, 8"
+      topics:
+      -
+        id: "session1"
+        title: "Cloud Native Enterprise"
+      -
+        id: "pcf101-session1-cne"
+      -
+        id: "session1lab"
+        title: "Demo: 9:45 AM - 10:15 AM"
+      -
+        id: "emptysession"
+        title: "Pushing your first app, Apps Manager"
+      -
+        id: "day1ambreak"
+        title: "Break 10:15 AM - 10:30 AM"
+      -
+        id: "session2"
+        title: "PCF Architecture and Operations"
+      -
+        id: "pcf101-session2-arch"
+      -
+        id: "pcf101-session2a-oper"
+      -
+        id: "day1Lunch"
+        title: "Lunch 12:00 PM - 1:00 PM"
+      -
+        id: "pcf101-session3-services"
+        title: "Pivotal Cloud Foundry Services"
+      -
+        id: "micro"
+        title: "Continous Delivery and Cloud Native Apps"
+      -
+        id: "66-continuous-delivery"
+      -
+        id: "68-cloud-native-design"
+      -
+        id: "70-microservices"
+      -
+        id: "security"
+        title: "Security"
+      -
+        id: "59-oauth-primer"
+      -
+        id: "60-security-and-sso"
+      -
+        id: "day1pmbreak"
+        title: "Break 3:30 PM - 3:45 PM"
+      -
+        id: "day1open"
+        title: "Open Discussions:"
+      -
+        id: "56-cloud-controller-API"
+      -
+        id: "58-service-broker"
+      -
+        id: "62-buildpacks"
+      -
+        id: "emptysession"
+        title: "COTS / ERP / Packaged Software"
+    - 
+      id: "day2"
+      name: "Day 2"
+      description: "Content for September, 9"
       topics:
       -
         id: "session1"
@@ -77,68 +142,18 @@ workshop:
       -
         id: "12-domains-and-routes"
       -
-        id: "12-domains-and-routes"
-      -
-        id: "14-services"
-      -
-        id: "20a-opsmgr-and-bosh-short"
-      -
-        id: "26-elastic-runtime"
-      -
-        id: "40-high-availability"
-      -
-        id: "session1"
-        title: "Customization"
-      -
-        id: "56-cloud-controller-API"
-      -
-        id: "58-service-broker"
-      -
-        id: "59-oauth-primer"
-      -
-        id: "60-security-and-sso"
-      -
-        id: "62-buildpacks"
-      -
-        id: "session3"
-        title: "Cloud Native Apps and Continuous Delivery"
-      -
-        id: "why-cloud-native-slides"
-      -
-        id: "cna-culture-changes-slides"
-      -
-        id: "66-continuous-delivery"
-      -
-        id: "68-cloud-native-design"
-      -
-        id: "70-microservices"
-    - 
-      id: "day2"
-      name: "Day 2"
-      description: "Content for October, 26"
-      topics:
-      -
         id: "springboot"
         title: "Spring Boot"
       -
         id: "80-cs-spring-boot-basics"
       -
         id: "82-cs-spring-boot-adv"
-              -
-        id: "actuator"
-      -
-        id: "spring-data-rest"
       -
         id: "scs"
-        title: "Spring Cloud Services"
+        title: "Spring Cloud"
       -
         id: "config"
       -
         id: "service-discovery"
       -
         id: "circuit-breakers"
-      -
-        id: "datamicroservices"
-        title: "Data Microservices"
-      -
-        id: "springcloud-dataflow"
