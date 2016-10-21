@@ -61,7 +61,7 @@ workshop:
     - 
       id: "day1"
       name: "Day 1"
-      description: "Content for September, 8"
+      description: "Content for October, 25"
       topics:
       -
         id: "session1"
@@ -79,7 +79,7 @@ workshop:
     - 
       id: "day2"
       name: "Day 2"
-      description: "Content for September, 9"
+      description: "Content for October, 26"
       topics:
       -
         id: "session1"
