@@ -119,6 +119,8 @@ workshop:
         id: "springboot"
         title: "Spring Boot"
       -
+        id: "spring-boot-labs-setup"
+      -
         id: "80-cs-spring-boot-basics"
       -
         id: "82-cs-spring-boot-adv"
@@ -129,6 +131,8 @@ workshop:
       -
         id: "scs"
         title: "Spring Cloud Services"
+      -
+        id: "scs-labs-setup"
       -
         id: "config"
       -
