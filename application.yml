@@ -16,7 +16,7 @@ workshop:
   customerLogo: "http://www.johnhancock.com/resources/images/common/john-hancock-logo.gif"
   instructors: 
     - 
-      name: "Chris J. Decelles"
+      name: "Chris Decelles"
       title: "Sr. Platform Architect"
       email: cdecelles@pivotal.io
       phone: "603.512.5616"
