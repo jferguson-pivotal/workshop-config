@@ -1,4 +1,3 @@
----
 config:
   name: cjdname
 foo: bar
@@ -11,15 +10,17 @@ hello: world
 workshop:
   contentURL: "https://workshop-content.cfapps.io"
   title: "Pivotal Cloud Foundry Workshop"
-  date: "December 12, 2016"
+  date: "September 8-9, 2016"
   instructors:
     -
-      name: "Chuck D'Antonio"
-      title: "Advisory Platform Architect"
-      email: "cdantonio@pivotal.io"
-      phone: "+1 617 388 1120"
+      name: "Chris Decelles"
+      title: "Sr. Platform Architect"
+      email: cdecelles@pivotal.io
+      phone: "603.512.5616"
     -
-
+      name: "Ravi J."
+      title: "Platform Architect"
+      email: rjagannathan@pivotal.io
   resources:
     -
       title: "Pivotal Network"
@@ -59,19 +60,101 @@ workshop:
         content: "content 4 link"
   sessions:
     -
-      id: "workshop"
-      name: "Workshop Agenda"
-      description: "Content for the workshop session"
+      id: "day1"
+      name: "Day 1"
+      description: "Content for September, 8"
       topics:
       -
-        id: "architecture"
-        title: "Architecture and Process"
+        id: "session1"
+        title: "Cloud Native Enterprise"
       -
-        id: "design"
-        title: "Design Principles and Patterns"
+        id: "pcf101-session1-cne"
       -
-        id: "implementation"
-        title: "Accelerating Implementation"
+        id: "session1lab"
+        title: "Demo: 9:45 AM - 10:15 AM"
       -
-        id: "gettig-started"
-        title: "Getting Started"
+        id: "emptysession"
+        title: "Pushing your first app, Apps Manager"
+      -
+        id: "day1ambreak"
+        title: "Break 10:15 AM - 10:30 AM"
+      -
+        id: "session2"
+        title: "PCF Architecture and Operations"
+      -
+        id: "pcf101-session2-arch"
+      -
+        id: "pcf101-session2a-oper"
+      -
+        id: "day1Lunch"
+        title: "Lunch 12:00 PM - 1:00 PM"
+      -
+        id: "pcf101-session3-services"
+        title: "Pivotal Cloud Foundry Services"
+      -
+        id: "micro"
+        title: "Continous Delivery and Cloud Native Apps"
+      -
+        id: "66-continuous-delivery"
+      -
+        id: "68-cloud-native-design"
+      -
+        id: "70-microservices"
+      -
+        id: "security"
+        title: "Security"
+      -
+        id: "59-oauth-primer"
+      -
+        id: "60-security-and-sso"
+      -
+        id: "day1pmbreak"
+        title: "Break 3:30 PM - 3:45 PM"
+      -
+        id: "day1open"
+        title: "Open Discussions:"
+      -
+        id: "56-cloud-controller-API"
+      -
+        id: "58-service-broker"
+      -
+        id: "62-buildpacks"
+      -
+        id: "emptysession"
+        title: "COTS / ERP / Packaged Software"
+    -
+      id: "day2"
+      name: "Day 2"
+      description: "Content for September, 9"
+      topics:
+      -
+        id: "session1"
+        title: "Application Development"
+      -
+        id: "04-cli"
+      -
+        id: "08-deploy-simple-app"
+      -
+        id: "06-org-space-user-role"
+      -
+        id: "10-application-manifest"
+      -
+        id: "12-domains-and-routes"
+      -
+        id: "springboot"
+        title: "Spring Boot"
+      -
+        id: "80-cs-spring-boot-basics"
+      -
+        id: "82-cs-spring-boot-adv"
+      -
+        id: "scs"
+        title: "Spring Cloud"
+      -
+        id: "config"
+      -
+        id: "service-discovery"
+      -
+        id: "circuit-breakers"
+Contact GitHub API Training Shop Blog About
+© 2016 GitHub, Inc. Terms Privacy Security Status Help
