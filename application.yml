@@ -59,22 +59,19 @@ workshop:
         content: "content 4 link"
   sessions:
     -
-      id: "day1"
-      name: "Day 1"
-      description: "Content for Day 1"
+      id: "workshop"
+      name: "Workshop Agenda"
+      description: "Content for the workshop session"
       topics:
       -
-        id: "session1"
-        title: "Cloud Native Enterprise"
+        id: "architecture"
+        title: "Architecture and Process"
       -
-        id: "day1Lunch"
-        title: "Lunch 12:00 PM - 1:00 PM"
+        id: "design"
+        title: "Design Principles and Patterns"
       -
-        id: "day1pmbreak"
-        title: "Break 3:30 PM - 3:45 PM"
-    -
-      id: "day2"
-      name: "Day 2"
-      description: "Content for Day 2"
-      topics:
+        id: "implementation"
+        title: "Accelerating Implementation"
       -
+        id: "gettig-started"
+        title: "Getting Started"
