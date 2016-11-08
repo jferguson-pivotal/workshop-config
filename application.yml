@@ -1,14 +1,8 @@
 config:
   name: dellemc
-foo: bar
-fortune:
-  messages:
-    - "People are naturally attracted to you."
-    - "You learn from your mistakes... You will learn a lot today."
-hello: world
 
 workshop:
-  contentURL: "https://workshop-content.cfapps.io"
+  contentURL: "https://workshop-content-crdant.cfapps.io"
   title: "DellEMC Cloud Native Workshop"
   date: "December 12, 2016"
   description: "Go big!"
@@ -81,13 +75,12 @@ workshop:
         id: "design"
         title: "Design Principles and Patterns"
       -
+        id: "twelve-factor-apps"
+      -
         id: "implementation"
         title: "Accelerating Implementation"
       -
-        id: "twelve-factor-apps"
-      -
         id: "springboot"
-        title: "Spring Boot"
       -
         id: "spring-boot-labs-setup"
       -
