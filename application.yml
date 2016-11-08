@@ -70,6 +70,14 @@ workshop:
         id: "architecture"
         title: "Architecture and Process"
       -
+        id: "a-new-way-of-working"
+      -
+        id: "an-open-ecosystem-of-services"
+      -
+        id: "70-microservices"
+      -
+        id: "data-microservices"
+      -
         id: "design"
         title: "Design Principles and Patterns"
       -
@@ -88,6 +96,8 @@ workshop:
         id: "actuator"
       -
         id: "66-continuous-delivery"
+      -
+        id: "pcf101-session1-cne"
       -
         id: "scs"
         title: "Spring Cloud Services"
