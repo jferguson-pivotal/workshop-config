@@ -84,6 +84,8 @@ workshop:
         id: "implementation"
         title: "Accelerating Implementation"
       -
+        id: "twelve-factor-apps"
+      -
         id: "springboot"
         title: "Spring Boot"
       -
@@ -117,3 +119,5 @@ workshop:
       -
         id: "getting-started"
         title: "Getting Started"
+      -
+        id: "legacy-migration-to-cloud"
