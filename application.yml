@@ -13,12 +13,12 @@ workshop:
   date: "September 8-9, 2016"
   instructors:
     -
-      name: "Chris Decelles"
-      title: "Sr. Platform Architect"
-      email: cdecelles@pivotal.io
-      phone: "603.512.5616"
+      name: "Chuck D'Antonio"
+      title: "Advisory Platform Architect"
+      email: cdantonio@pivotal.io
+      phone: ""+1 617 388 1120"
     -
-      name: "Ravi J."
+      name: "Ravi Jagannathan"
       title: "Platform Architect"
       email: rjagannathan@pivotal.io
   resources:
