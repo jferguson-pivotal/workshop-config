@@ -70,66 +70,17 @@ workshop:
         id: "architecture"
         title: "Architecture and Process"
       -
+        id: "day1ambreak"
+        title: "Break 10:15 AM - 10:30 AM"
+      -
         id: "design"
         title: "Design Principles and Patterns"
       -
         id: "implementation"
         title: "Accelerating Implementation"
       -
-        id: "getting-started"
-        title: "Getting Started"
-      -
-        id: "pcf101-session1-cne"
-      -
-        id: "session1lab"
-        title: "Demo: 9:45 AM - 10:15 AM"
-      -
-        id: "emptysession"
-        title: "Pushing your first app, Apps Manager"
-      -
-        id: "day1ambreak"
-        title: "Break 10:15 AM - 10:30 AM"
-      -
-        id: "session2"
-        title: "PCF Architecture and Operations"
-      -
-        id: "pcf101-session2-arch"
-      -
-        id: "pcf101-session2a-oper"
-      -
         id: "day1Lunch"
         title: "Lunch 12:00 PM - 1:00 PM"
       -
-        id: "pcf101-session3-services"
-        title: "Pivotal Cloud Foundry Services"
-      -
-        id: "micro"
-        title: "Continous Delivery and Cloud Native Apps"
-      -
-        id: "66-continuous-delivery"
-      -
-        id: "68-cloud-native-design"
-      -
-        id: "70-microservices"
-      -
-        id: "security"
-        title: "Security"
-      -
-        id: "59-oauth-primer"
-      -
-        id: "60-security-and-sso"
-      -
-        id: "day1pmbreak"
-        title: "Break 3:30 PM - 3:45 PM"
-      -
-        id: "day1open"
-        title: "Open Discussions:"
-      -
-        id: "56-cloud-controller-API"
-      -
-        id: "58-service-broker"
-      -
-        id: "62-buildpacks"
-      -
-        id: "emptysession"
-        title: "COTS / ERP / Packaged Software"
+        id: "getting-started"
+        title: "Getting Started"
