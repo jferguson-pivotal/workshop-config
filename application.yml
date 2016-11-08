@@ -65,8 +65,17 @@ workshop:
       description: "Content for one-day workshop December 12, 2016"
       topics:
       -
-        id: "session1"
-        title: "Cloud Native Enterprise"
+        id: "architecture"
+        title: "Architecture and Process"
+      -
+        id: "design"
+        title: "Design Principles and Patterns"
+      -
+        id: "implementation"
+        title: "Accelerating Implementation"
+      -
+        id: "starting"
+        title: "Getting Started"
       -
         id: "pcf101-session1-cne"
       -
