@@ -9,18 +9,20 @@ hello: world
 
 workshop:
   contentURL: "https://workshop-content.cfapps.io"
-  title: "Pivotal Cloud Foundry Workshop"
-  date: "September 8-9, 2016"
+  title: "DellEMC Cloud Native Workshop"
+  date: "December 12, 2016"
+  description: "Go big!"
+  customerLogo: "http://brand.emc.com/dellbrand/wp-content/uploads/2016/05/DellEMC_Logo_Hz_Blue_Gry_rgb-500x89.png"
   instructors:
     -
       name: "Chuck D'Antonio"
       title: "Advisory Platform Architect"
-      email: cdantonio@pivotal.io
-      phone: ""+1 617 388 1120"
+      email: "cdantonio@pivotal.io"
+      phone: "+1 617 388 1120"
     -
       name: "Ravi Jagannathan"
       title: "Platform Architect"
-      email: rjagannathan@pivotal.io
+      email: "rjagannathan@pivotal.io"
   resources:
     -
       title: "Pivotal Network"
@@ -74,7 +76,7 @@ workshop:
         id: "implementation"
         title: "Accelerating Implementation"
       -
-        id: "starting"
+        id: "getting-started"
         title: "Getting Started"
       -
         id: "pcf101-session1-cne"
