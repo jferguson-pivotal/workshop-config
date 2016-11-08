@@ -70,17 +70,40 @@ workshop:
         id: "architecture"
         title: "Architecture and Process"
       -
-        id: "day1ambreak"
-        title: "Break 10:15 AM - 10:30 AM"
-      -
         id: "design"
         title: "Design Principles and Patterns"
       -
         id: "implementation"
         title: "Accelerating Implementation"
       -
-        id: "day1Lunch"
-        title: "Lunch 12:00 PM - 1:00 PM"
+        id: "springboot"
+        title: "Spring Boot"
+      -
+        id: "spring-boot-labs-setup"
+      -
+        id: "80-cs-spring-boot-basics"
+      -
+        id: "82-cs-spring-boot-adv"
+      -
+        id: "actuator"
+      -
+        id: "66-continuous-delivery"
+      -
+        id: "scs"
+        title: "Spring Cloud Services"
+      -
+        id: "scs-labs-setup"
+      -
+        id: "config"
+      -
+        id: "service-discovery"
+      -
+        id: "circuit-breakers"
+      -
+        id: "datamicroservices"
+        title: "Data Microservices"
+      -
+        id: "springcloud-dataflow"
       -
         id: "getting-started"
         title: "Getting Started"
