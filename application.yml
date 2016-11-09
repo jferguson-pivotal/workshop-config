@@ -85,7 +85,7 @@ workshop:
           id: "implementation"
           title: "Accelerating Implementation"
         -
-          id: "springboot"
+          id: "80-cs-spring-boot-basics"
           title: "Spring Boot"
         -
           id: "66-continuous-delivery"
@@ -94,20 +94,14 @@ workshop:
           id: "pcf101-session1-cne"
           title: "Pivotal Cloud Foundry"
         -
-          id: "scs"
-          title: "Spring Cloud Services"
-        -
-          id: "scs-labs-setup"
-          title: "Spring Cloud Services Lab Setup"
-        -
           id: "config"
-          title: "Configuration Server"
+          title: "Spring Cloud Configuration Server"
         -
           id: "service-discovery"
-          title: "Service Discovery"
+          title: "Spring Cloud Service Discovery"
         -
           id: "circuit-breakers"
-          title: "Circuit Breakers"
+          title: "Spring Cloud Circuit Breakers"
         -
           id: "datamicroservices"
           title: "Data Microservices"
@@ -119,7 +113,7 @@ workshop:
           title: "Getting Started"
         -
           id: "legacy-migration-to-cloud"
-          title: "Migrating Existing Applications"
+          title: "Making Existing Applications Cloud Native"
     -
       id: "selfstudylabs"
       name: "Labs for Self Study"
