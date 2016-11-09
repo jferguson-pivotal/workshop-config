@@ -87,7 +87,7 @@ workshop:
         title: "Spring Boot Lab Setup"
       -
         id: "80-cs-spring-boot-basics"
-        title: "Spring Boot Basics"
+        title: "Spring Boot Basics (really just the basics)"
       -
         id: "82-cs-spring-boot-adv"
       -
