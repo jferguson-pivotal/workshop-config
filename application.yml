@@ -81,10 +81,13 @@ workshop:
         title: "Accelerating Implementation"
       -
         id: "springboot"
+        title: "Spring Boot"
       -
         id: "spring-boot-labs-setup"
+        title: "Spring Boot Lab Setup"
       -
         id: "80-cs-spring-boot-basics"
+        title: "Spring Boot Basics"
       -
         id: "82-cs-spring-boot-adv"
       -
