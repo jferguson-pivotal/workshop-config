@@ -119,7 +119,7 @@ workshop:
           title: "Getting Started"
         -
           id: "coming-soon"
-          title: "Existing Applications"
+          title: "New Applications"
         -
           id: "legacy-migration-to-cloud"
           title: "Existing Applications"
