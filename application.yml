@@ -85,7 +85,7 @@ workshop:
           id: "implementation"
           title: "Accelerating Implementation"
         -
-          id: "80-cs-spring-boot-basics"
+          id: "80a-cs-spring-boot-condensed"
           title: "Spring Boot"
         -
           id: "66-continuous-delivery"
@@ -94,14 +94,8 @@ workshop:
           id: "pcf101-session1-cne"
           title: "Pivotal Cloud Foundry"
         -
-          id: "config"
-          title: "Spring Cloud Configuration Server"
-        -
-          id: "service-discovery"
-          title: "Spring Cloud Service Discovery"
-        -
-          id: "circuit-breakers"
-          title: "Spring Cloud Circuit Breakers"
+          id: "85a-spring-cloud-condensed"
+          title: "Spring Cloud Services"
         -
           id: "datamicroservices"
           title: "Data Microservices"
