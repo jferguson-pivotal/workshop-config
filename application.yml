@@ -5,7 +5,16 @@ workshop:
   contentURL: "https://workshop-content-crdant.cfapps.io"
   title: "Becoming Cloud Native"
   date: "December 12, 2016"
-  description: "Go big!"
+  description: "<div class='h4'>
+  							Pivotal’s hands on workshops will introduce you to key concepts in modern application design with Pivotal Cloud Foundry, Spring Boot and Spring Cloud.
+  							With expert guidance, you will:
+  						</div>
+  						<ul>
+  							<li>Learn Pivotal Cloud Foundry concepts and deploy applications to cloud foundry and learn to employ DevOps practices such as shared responsibility, short iterations, and continuous delivery</li>
+  							<li>Cover the key operational topics you’ll need to know to confidently run your own microservice applications.</li>
+  							<li>Get a hands on introduction to microservice architectures and application development.</li>
+  							<li>Cover key concepts of architecting and running machine learning systems using Spring Cloud Data flow and Pivotal Cloud Foundry services.</li>
+  						</ul>"
   customerLogo: "http://brand.emc.com/dellbrand/wp-content/uploads/2016/05/DellEMC_Logo_Hz_Blue_Gry_rgb-500x89.png"
   instructors:
     -
