@@ -3,7 +3,7 @@ config:
 
 workshop:
   contentURL: "https://workshop-content-crdant.cfapps.io"
-  title: "DellEMC Cloud Native Workshop"
+  title: "Becoming Cloud Native"
   date: "December 12, 2016"
   description: "Go big!"
   customerLogo: "http://brand.emc.com/dellbrand/wp-content/uploads/2016/05/DellEMC_Logo_Hz_Blue_Gry_rgb-500x89.png"
