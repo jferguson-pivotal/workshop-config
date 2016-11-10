@@ -79,8 +79,17 @@ workshop:
           id: "design"
           title: "Design Principles and Patterns"
         -
+          id: "coming-soon"
+          title: "Design for Failure"
+        -
+          id: "coming-soon"
+          title: "API First"
+        -
           id: "twelve-factor-apps"
           title: "12 Factor Applications"
+        -
+          id: "coming-soon"
+          title: "Beyond the 12 Factors"
         -
           id: "implementation"
           title: "Accelerating Implementation"
@@ -94,20 +103,29 @@ workshop:
           id: "pcf101-session1-cne"
           title: "Pivotal Cloud Foundry"
         -
+          id: "coming-soon"
+          title: "DellEMC IT Cloud Foundry"
+        -
           id: "85a-spring-cloud-condensed"
           title: "Spring Cloud Services"
-        -
-          id: "datamicroservices"
-          title: "Data Microservices"
         -
           id: "springcloud-dataflow"
           title: "Spring Cloud Data Flow"
         -
+          id: "coming-soon"
+          title: "Steeltoe"
+        -
           id: "getting-started"
           title: "Getting Started"
         -
+          id: "coming-soon"
+          title: "Existing Applications"
+        -
           id: "legacy-migration-to-cloud"
-          title: "Making Existing Applications Cloud Native"
+          title: "Existing Applications"
+        -
+          id: "coming-soon"
+          title: "Leveraging DellEMC IT Cloud Foundry"
     -
       id: "selfstudylabs"
       name: "Labs for Self Study"
