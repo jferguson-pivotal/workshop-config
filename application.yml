@@ -64,8 +64,8 @@ workshop:
   sessions:
     -
       id: "workshop"
-      name: "Workshop Sessions"
-      description: "Content for one-day workshop December 12, 2016"
+      name: "Workshop Session"
+      description: "Becoming Cloud Native with DellEMC IT Cloud Foundry"
       topics:
         -
           id: "architecture"
