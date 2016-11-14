@@ -83,6 +83,9 @@ workshop:
           id: "data-microservices"
           title: "Data Microservices"
         -
+          id: "coming-soon"
+          title: "Live Coding!"
+        -
           id: "design"
           title: "Design Principles and Patterns"
         -
