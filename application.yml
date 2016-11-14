@@ -68,6 +68,9 @@ workshop:
       description: "Becoming Cloud Native with DellEMC IT Cloud Foundry"
       topics:
         -
+          id: "executive-open"
+          title: "Executive Open"
+        -
           id: "architecture"
           title: "Architecture and Process"
         -
