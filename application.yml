@@ -72,7 +72,7 @@ workshop:
           title: "Executive Open"
         -
           id: "architecture"
-          title: "Architecture and Process"
+          title: "Being Cloud Native"
         -
           id: "a-new-way-of-working"
           title: "A New Way of Working"
@@ -87,7 +87,7 @@ workshop:
           title: "Live Coding!"
         -
           id: "design"
-          title: "Design Principles and Patterns"
+          title: "Cloud Native Principles and Patterns""
         -
           id: "coming-soon"
           title: "Design for Failure"
@@ -108,7 +108,7 @@ workshop:
           title: "Data Microservices"
         -
           id: "implementation"
-          title: "Accelerating Implementation"
+          title: "Accelerating Cloud-Native Implementations"
         -
           id: "80a-cs-spring-boot-condensed"
           title: "Spring Boot"
