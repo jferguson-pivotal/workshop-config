@@ -72,7 +72,7 @@ workshop:
           title: "Executive Open"
         -
           id: "architecture"
-          title: "What is it to be Cloud Native?"
+          title: "What is Cloud Native?"
         -
           id: "a-new-way-of-working"
           title: "A New Way of Working"
@@ -81,7 +81,7 @@ workshop:
           title: "An Open Ecosystem of Services"
         -
           id: "coming-soon"
-          title: "Platforms, Containers, and Microservices"
+          title: "Core Technologies: Platforms, Containers, and Microservices"
         -
           id: "coming-soon"
           title: "Live Coding!"
@@ -108,7 +108,7 @@ workshop:
           title: "Data Microservices"
         -
           id: "implementation"
-          title: "Accelerating Cloud-Native Implementations"
+          title: "Accelerating Cloud Native Implementations"
         -
           id: "80a-cs-spring-boot-condensed"
           title: "Spring Boot"
@@ -132,7 +132,7 @@ workshop:
           title: "Steeltoe"
         -
           id: "getting-started"
-          title: "Becoming Cloud-Native"
+          title: "Becoming Cloud Native"
         -
           id: "coming-soon"
           title: "New Applications"
