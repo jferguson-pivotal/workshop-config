@@ -81,13 +81,13 @@ workshop:
           title: "An Open Ecosystem of Services"
         -
           id: "coming-soon"
-          title: "Cloud-Native Technologies: Platforms, Containers, and Microservices"
+          title: "Platforms, Containers, and Microservices"
         -
           id: "coming-soon"
           title: "Live Coding!"
         -
           id: "design"
-          title: "Cloud Native Principles and Patterns""
+          title: "Cloud Native Principles and Patterns"
         -
           id: "coming-soon"
           title: "Design for Failure"
