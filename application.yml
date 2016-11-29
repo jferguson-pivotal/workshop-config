@@ -72,7 +72,7 @@ workshop:
           title: "Executive Open"
         -
           id: "architecture"
-          title: "Being Cloud Native"
+          title: "What is it to be Cloud Native?"
         -
           id: "a-new-way-of-working"
           title: "A New Way of Working"
@@ -132,7 +132,7 @@ workshop:
           title: "Steeltoe"
         -
           id: "getting-started"
-          title: "Getting Started"
+          title: "Becoming Cloud-Native"
         -
           id: "coming-soon"
           title: "New Applications"
