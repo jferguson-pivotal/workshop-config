@@ -80,12 +80,6 @@ workshop:
           id: "an-open-ecosystem-of-services"
           title: "An Open Ecosystem of Services"
         -
-          id: "70-microservices"
-          title: "Microservices"
-        -
-          id: "data-microservices"
-          title: "Data Microservices"
-        -
           id: "coming-soon"
           title: "Live Coding!"
         -
@@ -103,6 +97,12 @@ workshop:
         -
           id: "coming-soon"
           title: "Beyond the 12 Factors"
+        -
+          id: "70-microservices"
+          title: "Microservices"
+        -
+          id: "data-microservices"
+          title: "Data Microservices"
         -
           id: "implementation"
           title: "Accelerating Implementation"
