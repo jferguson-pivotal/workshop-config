@@ -1,6 +1,6 @@
 --- 
 config: 
-  name: cjdname
+  name: CTS
 foo: bar
 fortune: 
   messages: 
@@ -11,17 +11,13 @@ hello: world
 workshop: 
   contentURL: "https://workshop-content.cfapps.io"
   title: "Pivotal Cloud Foundry Workshop"
-  date: "September 8-9, 2016"
+  date: "December 9th, 2016"
   instructors: 
     - 
-      name: "Chris Decelles"
-      title: "Sr. Platform Architect"
-      email: cdecelles@pivotal.io
-      phone: "603.512.5616"
-    - 
-      name: "Ravi J."
+      name: "Ravi Jagannathan"
       title: "Platform Architect"
       email: rjagannathan@pivotal.io
+      phone: "508-450-4221"
   resources:
     -
       title: "Pivotal Network"
