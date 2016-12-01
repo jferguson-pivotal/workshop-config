@@ -10,7 +10,7 @@ hello: world
 
 workshop: 
   contentURL: "https://workshop-content.cfapps.io"
-  title: "Pivotal Cloud Foundry Workshop"
+  title: "Pivotal Cloud Foundry Workshop - CTS"
   date: "September 8-9, 2016"
   instructors: 
     - 
