@@ -63,12 +63,12 @@ workshop:
       topics:
       -
         id: "session1"
-        title: "Introductions"
+        title: "Introduction"
       -
-        id: "session1"
+        id: "pcf101-session1-cne"
         title: "Becoming Cloud Native with Pivotal Cloud Foundry"
       -
-        id: "session1"
+        id: "pcf101-session1-cne"
         title: "Platform Fundamentals, Developer experience"
       -
         id: "day1ambreak"
