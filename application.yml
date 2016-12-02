@@ -82,19 +82,40 @@ workshop:
         id: "pcf101-session2a-oper"
       -
         id: "day1Lunch"
-        title: "Lunch"
+        title: "Break"
       -
         id: "nosession"
         title: "Pivotal Cloud Foundry Services"
       -
-        id: "micro"
-        title: "Spring Boot and Spring Cloud"
+        id: "58-service-broker"
       -
-        id: "66-continuous-delivery-ravi"
+        id: "springboot"
+        title: "Spring Boot"
+      -
+        id: "80-cs-spring-boot-basics"
+      -
+        id: "82-cs-spring-boot-adv"
       -
         id: "68-cloud-native-design"
       -
+        id: "nosession"
+        title: "Spring Microservices"
+      -
         id: "70-microservices"
+      -
+        id: "scs"
+        title: "Spring Cloud"
+      -
+        id: "config"
+      -
+        id: "service-discovery"
+      -
+        id: "circuit-breakers"
+      -
+        id: "nosession"
+        title: "Continuous Delivery and Deployment on Platforms"
+      -
+        id: "66-continuous-delivery-ravi"
       -
         id: "security"
         title: "Security"
@@ -110,8 +131,7 @@ workshop:
         title: "Open Discussions:"
       -
         id: "56-cloud-controller-API"
-      -
-        id: "58-service-broker"
+
       -
         id: "62-buildpacks"
       -
