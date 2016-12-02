@@ -58,12 +58,12 @@ workshop:
   sessions:
     - 
       id: "day1"
-      name: "Day 1"
-      description: "Content for September, 8"
+      name: "Agenda"
+      description: "Content for December, 9th"
       topics:
       -
         id: "session1"
-        title: "Cloud Native Enterprise"
+        title: "Becoming Cloud Native with Pivotal Cloud Foundry"
       -
         id: "pcf101-session1-cne"
       -
