@@ -70,11 +70,8 @@ workshop:
       -
         id: "pcf101-session1-cne"
       -
-        id: "session1lab"
-        title: "Demo: 9:45 AM - 10:15 AM"
-      -
         id: "emptysession"
-        title: "Pushing your first app, Apps Manager"
+        title: "Platform Fundamentals, Developer experience"
       -
         id: "day1ambreak"
         title: "Break 10:15 AM - 10:30 AM"
