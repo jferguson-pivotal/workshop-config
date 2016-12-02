@@ -18,6 +18,10 @@ workshop:
       title: "Platform Architect"
       email: rjagannathan@pivotal.io
       phone: "508-450-4221"
+    - 
+      name: "Mark Fynes"
+      title: "Advisory Platform Architect"
+      email: tfynesk@pivotal.io
   resources:
     -
       title: "Pivotal Network"
