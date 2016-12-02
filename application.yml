@@ -134,6 +134,9 @@ workshop:
         id: "day1open"
         title: "Open Discussions:"
       -
+        id: "emptysession"
+        title: "Devops Experience"
+      -
         id: "56-cloud-controller-API"
       -
         id: "62-buildpacks"
