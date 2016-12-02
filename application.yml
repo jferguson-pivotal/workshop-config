@@ -62,15 +62,13 @@ workshop:
       description: "Content for December, 9th"
       topics:
       -
-        id: "emptysession"
+        id: "session1"
         title: "Introductions"
       -
         id: "session1"
         title: "Becoming Cloud Native with Pivotal Cloud Foundry"
       -
-        id: "pcf101-session1-cne"
-      -
-        id: "emptysession"
+        id: "session1"
         title: "Platform Fundamentals, Developer experience"
       -
         id: "day1ambreak"
