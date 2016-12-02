@@ -62,6 +62,9 @@ workshop:
       description: "Content for December, 9th"
       topics:
       -
+        id: "emptysession"
+        title: "Introductions"
+      -
         id: "session1"
         title: "Becoming Cloud Native with Pivotal Cloud Foundry"
       -
