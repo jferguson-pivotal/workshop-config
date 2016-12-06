@@ -70,37 +70,18 @@ workshop:
         title: "Introduction"
       -
         id: "pcf101-session1-cne"
-        title: "Becoming Cloud Native with Pivotal Cloud Foundry"
-      -
-        id: "pcf101-session1-cne"
         title: "Platform Fundamentals, Developer experience"
       -
         id: "day1ambreak"
         title: "Break"
       -
-        id: "session2"
-        title: "PCF Architecture and Operations"
-      -
-        id: "pcf101-session2-arch"
-      -
-        id: "pcf101-session2a-oper"
-      -
         id: "day1Lunch"
         title: "Break"
-      -
-        id: "nosession"
-        title: "Pivotal Cloud Foundry Services"
-      -
-        id: "58-service-broker"
       -
         id: "springboot"
         title: "Spring Boot"
       -
         id: "80-cs-spring-boot-basics"
-      -
-        id: "82-cs-spring-boot-adv"
-      -
-        id: "68-cloud-native-design"
       -
         id: "nosession"
         title: "Spring Microservices"
@@ -120,13 +101,6 @@ workshop:
         title: "Continuous Delivery and Deployment on Platforms"
       -
         id: "66-continuous-delivery-ravi"
-      -
-        id: "security"
-        title: "Security"
-      -
-        id: "59-oauth-primer"
-      -
-        id: "60-security-and-sso"
       -
         id: "day1pmbreak"
         title: "Break"
