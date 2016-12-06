@@ -72,12 +72,6 @@ workshop:
         id: "pcf101-session1-cne"
         title: "Platform Fundamentals, Developer experience"
       -
-        id: "day1ambreak"
-        title: "Break"
-      -
-        id: "day1Lunch"
-        title: "Break"
-      -
         id: "springboot"
         title: "Spring Boot"
       -
