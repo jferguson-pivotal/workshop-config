@@ -116,9 +116,6 @@ workshop:
           id: "pcf101-session1-cne"
           title: "Pivotal Cloud Foundry"
         -
-          id: "coming-soon"
-          title: "DellEMC IT Cloud Foundry"
-        -
           id: "85a-spring-cloud-condensed"
           title: "Spring Cloud Services"
         -
@@ -137,8 +134,8 @@ workshop:
           id: "legacy-migration-to-cloud"
           title: "Existing Applications"
         -
-          id: "coming-soon"
-          title: "Leveraging DellEMC IT Cloud Foundry"
+          id: "dell-it-cloud-foundry"
+          title: "Leveraging Dell IT Cloud Foundry"
     -
       id: "selfstudylabs"
       name: "Labs for Self Study"
