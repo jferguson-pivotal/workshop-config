@@ -95,11 +95,8 @@ workshop:
           id: "coming-soon"
           title: "API First"
         -
-          id: "twelve-factor-apps"
-          title: "12 Factor Applications"
-        -
-          id: "coming-soon"
-          title: "Beyond the 12 Factors"
+          id: "twelve-factor-apps-and-beyond"
+          title: "12 Factor Applications (and Beyond)"
         -
           id: "70-microservices"
           title: "Microservices"
