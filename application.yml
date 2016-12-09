@@ -128,8 +128,8 @@ workshop:
           id: "springcloud-dataflow"
           title: "Spring Cloud Data Flow"
         -
-          id: "coming-soon"
-          title: "Steeltoe"
+          id: "steeltoe-and-dotnet"
+          title: ".NET and Steeltoe"
         -
           id: "getting-started"
           title: "Becoming Cloud Native"
