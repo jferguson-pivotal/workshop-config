@@ -80,8 +80,8 @@ workshop:
           id: "an-open-ecosystem-of-services"
           title: "An Open Ecosystem of Services"
         -
-          id: "coming-soon"
-          title: "Key Technologies: Platforms, Containers, and Microservices"
+          id: "cloud-native-architecture"
+          title: "Cloud Native Architecture"
         -
           id: "coming-soon"
           title: "Live Coding!"
