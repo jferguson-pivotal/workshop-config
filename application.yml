@@ -16,12 +16,12 @@ workshop:
     - 
       name: "Ravi Jagannathan"
       title: "Platform Architect"
-      email: rjagannathan@pivotal.io
-      phone: "508-450-4221"
+      email: rjagannathanATpivotalDOTio
+      phone: ""
     - 
       name: "Mark Fynes"
       title: "Advisory Platform Architect"
-      email: tfynes@pivotal.io
+      email: tfynesATpivotalDOTio
   resources:
     -
       title: "Pivotal Network"
