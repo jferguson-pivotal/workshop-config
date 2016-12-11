@@ -128,7 +128,7 @@ workshop:
           id: "getting-started"
           title: "Becoming Cloud Native"
         -
-          id: "coming-soon"
+          id: "new-application"
           title: "New Applications"
         -
           id: "legacy-migration-to-cloud"
