@@ -74,7 +74,7 @@ workshop:
           id: "architecture"
           title: "What is Cloud Native?"
         -
-          id: "a-new-way-of-working"
+          id: "a-new-way-of-working-dell"
           title: "A New Way of Working"
         -
           id: "an-open-ecosystem-of-services"
@@ -89,7 +89,7 @@ workshop:
           id: "design"
           title: "Cloud Native Principles and Patterns"
         -
-          id: "coming-soon"
+          id: "design-for-failure"
           title: "Design for Failure"
         -
           id: "coming-soon"
