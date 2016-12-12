@@ -11,17 +11,17 @@ hello: world
 workshop: 
   contentURL: "https://workshop-content.cfapps.io"
   title: "Pivotal Cloud Foundry Workshop - Based on Microservices Pattern"
-  date: "December 9th, 2016"
+  date: "2016"
   instructors: 
     - 
-      name: "Ravi Jagannathan"
-      title: "Platform Architect"
-      email: rjagannathanATpivotalDOTio
+      name: "Chuck"
+      title: "Advisoy Platform Architect"
+      email: cdantonioATpivotalDOTio
       phone: ""
     - 
-      name: "Mark Fynes"
-      title: "Advisory Platform Architect"
-      email: tfynesATpivotalDOTio
+      name: "Ravi"
+      title: "Platform Architect"
+      email: rjagannathanATpivotalDOTio
   resources:
     -
       title: "Pivotal Network"
@@ -63,7 +63,7 @@ workshop:
     - 
       id: "day1"
       name: "Agenda"
-      description: "Content for December, 9th"
+      description: "2016"
       topics:
       -
         id: "session1"
