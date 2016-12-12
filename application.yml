@@ -92,7 +92,7 @@ workshop:
           id: "design-for-failure"
           title: "Design for Failure"
         -
-          id: "coming-soon"
+          id: "api-first"
           title: "API First"
         -
           id: "twelve-factor-apps-and-beyond"
@@ -113,7 +113,7 @@ workshop:
           id: "66-continuous-delivery"
           title: "Continuous Delivery"
         -
-          id: "pcf101-session1-cne"
+          id: "pcf101-session2-arch"
           title: "Pivotal Cloud Foundry"
         -
           id: "85a-spring-cloud-condensed"
