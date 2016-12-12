@@ -14,11 +14,6 @@ workshop:
   date: "2016"
   instructors: 
     - 
-      name: "Chuck"
-      title: "Advisoy Platform Architect"
-      email: cdantonioATpivotalDOTio
-      phone: ""
-    - 
       name: "Ravi"
       title: "Platform Architect"
       email: rjagannathanATpivotalDOTio
