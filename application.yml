@@ -10,7 +10,7 @@ hello: world
 
 workshop: 
   contentURL: "https://workshop-content.cfapps.io"
-  title: "Pivotal Cloud Foundry Workshop - TCS"
+  title: "Pivotal Cloud Foundry Workshop - Based on Microservices Pattern"
   date: "December 9th, 2016"
   instructors: 
     - 
