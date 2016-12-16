@@ -10,18 +10,17 @@ hello: world
 
 workshop: 
   contentURL: "https://workshop-content.cfapps.io"
-  title: "Pivotal Cloud Foundry Workshop - CTS"
-  date: "September 8-9, 2016"
+  title: "Pivotal Cloud Foundry Workshop - XLS"
+  date: "December 19th, 2016"
   instructors: 
     - 
-      name: "Chris Decelles"
-      title: "Sr. Platform Architect"
-      email: cdecelles@pivotal.io
-      phone: "603.512.5616"
-    - 
-      name: "Ravi J."
+      name: "John Ferguson"
       title: "Platform Architect"
-      email: rjagannathan@pivotal.io
+      email: jferguson@pivotal.io
+    - 
+      name: "Craig Olrich"
+      title: "Sr. Platform Architect"
+      email: colrich@pivotal.io
   resources:
     -
       title: "Pivotal Network"
@@ -62,8 +61,8 @@ workshop:
   sessions:
     - 
       id: "day1"
-      name: "Day 1"
-      description: "Content for September, 8"
+      name: "Agenda"
+      description: "Agenda"
       topics:
       -
         id: "session1"
