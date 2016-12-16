@@ -43,7 +43,21 @@ workshop:
     -
       title: "Pivotal Web Services"
       url: "https://run.pivotal.io/"
-  
+  requirements:
+    -
+      title: "Test"
+      requirement:
+        -
+          content: "content 1 link"
+        -
+          content: "content 2 link"
+    -
+      title: "CLI"
+      requirement:
+      -
+        content: "content 3 link"
+      -
+        content: "content 4 link"
   sessions:
     - 
       id: "day1"
