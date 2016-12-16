@@ -52,9 +52,9 @@ workshop:
       topics:
       -
         id: "session1"
-        title: "Cloud Native Enterprise 10:00-11:00"
+        title: "Introduction to PCF 10:00-11:00"
       -
-        id: "pcf101-session1-cne"
+        id: "02-intro-to-pcf"
       -
         id: "session1lab"
         title: "Demo: 11:00-12:00"
