@@ -90,13 +90,13 @@ workshop:
         title: "Lunch 12:00-12:30"
       -
         id: "session2"
-        title: "PCF Architecture and Operations"
+        title: "PCF Architecture and Operations 12:30-2:00"
       -
         id: "pcf101-session2-arch"
       -
         id: "pcf101-session2a-oper"
       -
-        id: "emptysession"
-        title: "PCF at XLS"
+        id: "session2"
+        title: "PCF at XLS 2:00-2:30"
      
     
